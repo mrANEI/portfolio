@@ -1,0 +1,281 @@
+body {
+	padding:0px;
+	margin: 0px;
+	color:#000;
+	font-family: arial;
+}
+
+
+.page_section--intro {
+	height:850px;
+	background: url(../img/first.jpg) no-repeat center top / cover;
+	color:#fff;
+}
+.container {
+	width:1170px;
+	margin: 0px auto;
+}
+
+
+.page_section--intro__topline {
+	padding-top: 50px;
+	
+}
+
+
+.page_section--intro__email {
+	float:left;
+	font-size: 14px;
+	background: url(../img/mail.png) no-repeat left center;
+	padding-left:20px;
+}
+
+
+.text_yellow {
+	color:yellow;
+}
+
+
+.page_section--intro__logo {
+	float:left;
+	font-size: 16px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-left: 380px;
+	text-decoration: none;
+	color:#fff;
+}
+
+
+.page_section--intro__phone{
+	float:right;
+	font-size: 16px;
+	background: url(../img/phone.png) no-repeat left center;
+	padding-left:20px;
+}
+
+
+h1 {
+	font-size: 41px;
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 250px;
+}
+
+
+.button {
+	background: yellow;
+	color:black;
+	text-align: center;
+	border-radius: 5px;
+	padding: 15px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 0px auto;
+	display:block;
+	width: 150px;
+}
+
+
+.page_section--about_me__title {
+	font-size: 33px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 100px;
+}
+
+
+.page_section--about_me {
+	height: 700px;
+	padding-top:60px;
+	padding-bottom: 120px;
+}
+
+
+.page_section--about_me__photo {
+	display: block;
+	border-radius: 50%;
+	margin:50px auto;
+	width:200px;
+	height:200px;
+}
+
+
+.about_title {
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+
+
+.about_text {
+	font-size: 15px;
+	font-weight: bold;
+	text-align:center;
+	width: 600px;
+	margin: 0px auto;
+}
+
+
+.social_block {
+	margin:0px auto;
+	width: 120px;
+}
+
+
+.clearfix:after {
+	content: '';
+	display: block;
+	width: 100%;
+}
+
+
+.social {
+	border-radius: 50%;
+	width: 31px;
+	height: 31px;
+	background: black;
+	float:left;
+	display: block;
+	text-align: center;
+	line-height: 31px;
+	margin-right: 11px;
+	margin-top: 30px;
+}
+
+
+.social:nth-child(3) {
+	margin-right: 0px;
+}
+
+
+.social:hover {
+	background: #ffb400;
+	box-shadow: 0px 0px 0px 2px #ffe4a3;
+}
+
+
+.page_section--order {
+	background: #f2f2f2;
+	padding: 60px 0px 100px 0px;
+}
+
+
+.page_section--order__form {
+	height: 400px;
+	width: 293px;
+	margin:0px auto;
+
+}
+
+
+.page_section--order__title {
+    font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 40px;
+}
+
+
+.cell {
+	border-radius: 3px;
+	background: #fff;
+	display: block;
+	height: 57px;
+	padding-left: 24px;
+	border:0px;
+	box-shadow: 0px 3px 3px grey;
+	margin-bottom: 14px;
+	width: 100%;
+	font-size: 15px;
+	box-sizing: border-box;
+}
+
+
+.act {
+	border:0px;
+	cursor: pointer;
+	font-size: 17px;
+	width: 250px;
+	box-sizing: border-box;
+	margin-top: 30px;
+	margin-left: 22px;
+}
+
+
+.page_section--footer {
+	background: #000;
+	color: #acacac;
+	padding:50px 0px;
+}
+
+
+.page_section--footer__credits {
+	margin-left:360px;
+	font-size: 14px;
+	float:left;
+}
+
+
+.page_section--footer__logo {
+    float:left;
+	font-size: 16px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration: none;
+	color:#fff;
+}
+
+
+.page_section--footer__phone{
+	float:right;
+	font-size: 16px;
+	background: url(../img/phone.png) no-repeat left center;
+	padding-left:20px;
+}
+
+
+footer .logo {
+	margin-left: 0px;
+	margin-right: 350px;
+}
+
+
+.button:hover {
+	background: #ffa200;
+}
+
+
+.button:active {
+	background: #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
